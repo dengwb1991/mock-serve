@@ -1,0 +1,1486 @@
+{
+	"data": [{
+		"endTime": "2024-03-31 00:00:00",
+		"sequence": 1,
+		"startTime": "2018-02-27 00:00:00",
+		"subModuleList": [{
+			"createTime": "2017-05-22 19:06:22",
+			"displayInfo": 7,
+			"extInfoJson": {
+				"background-color": "#FFF"
+			},
+			"isUse": 1,
+			"kind": "activity",
+			"moduleId": 1,
+			"remark": "-",
+			"sequence": 1,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2019-09-30 00:00:00",
+				"link": "/wep/credit_mall/#/mallActivity?position=xrmz19624",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/e0aff3c16f379d3c6583d36e8cf28abe491678851.png",
+				"remark": "美妆狂欢购",
+				"sequence": 1,
+				"startTime": "2019-08-19 00:00:00"
+			}]
+		}],
+		"template": "BANNER",
+		"title": "banner"
+	}, {
+		"endTime": "2024-03-31 00:00:00",
+		"sequence": 3,
+		"startTime": "2018-02-27 00:00:00",
+		"subModuleList": [{
+			"createTime": "2017-06-24 14:59:13",
+			"displayInfo": 7,
+			"extInfoJson": {
+				"background-color": "#ffffff"
+			},
+			"isUse": 1,
+			"kind": "icon",
+			"moduleId": 9,
+			"remark": "icon",
+			"sequence": 1,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2020-03-28 00:00:00",
+				"insName": "家用电器",
+				"link": "/wep/credit_mall/#/brandPalace?position=smjdpp",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/91e5ee490c7646b928f7430c75b17c34895782065.png",
+				"remark": "家用电器",
+				"sequence": 1,
+				"startTime": "2019-02-20 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-03-28 00:00:00",
+				"insName": "折扣轻奢",
+				"link": "/wep/credit_mall/#/brandPalace?position=zkqspp&mallChannalId=ZD&adsource=zkqsnhj",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/acebddd1fab15efc4ce3f090fa80fd55127342335.png",
+				"remark": "折扣轻奢",
+				"sequence": 2,
+				"startTime": "2019-02-20 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-03-28 00:00:00",
+				"insName": "美妆个护",
+				"link": "/wep/credit_mall/#/brandPalace?position=mzghpp&mallChannalId=ZD&adsource=mzghnhj",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/e75261740ca4577d40e8ecac71bb9111-1085623193.png",
+				"remark": "美妆个护",
+				"sequence": 4,
+				"startTime": "2019-02-20 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-03-28 00:00:00",
+				"insName": "潮鞋箱包",
+				"link": "/wep/credit_mall/#/brandPalace?position=cxfspp&mallChannalId=ZD&adsource=cxxbnhj",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/14bee37d94aa9670dc58b3b9f282b16c-2048374741.png",
+				"remark": "潮鞋箱包",
+				"sequence": 5,
+				"startTime": "2019-02-20 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2021-01-31 00:00:00",
+				"insName": "服装配饰",
+				"link": "/wep/credit_mall/#/brandPalace?position=fzpspp",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/038c52cc9f1a26e0e5abf719f8431dd2455738805.png",
+				"remark": "服装配饰",
+				"sequence": 6,
+				"startTime": "2018-12-21 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2021-01-31 00:00:00",
+				"insName": "食品保健",
+				"link": "/wep/credit_mall/#/brandPalace?position=lsbj",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/33c76a192d8da362f684244f839c992d1137763194.png",
+				"remark": "食品保健",
+				"sequence": 6,
+				"startTime": "2018-12-21 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-03-31 00:00:00",
+				"insName": "日用百货",
+				"link": "/wep/credit_mall/#/brandPalace?position=rybh",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/750e975e9ded31eef21d913768baf3ac1062958024.png",
+				"remark": "日用百货",
+				"sequence": 9,
+				"startTime": "2019-03-04 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-03-31 00:00:00",
+				"insName": "情趣分期",
+				"link": "/wep/credit_mall/#/sex/home",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/98825960412f45512e6f5ba4c553e3691719893069.png",
+				"remark": "情趣分期",
+				"sequence": 10,
+				"startTime": "2019-03-08 00:00:00"
+			}]
+		}],
+		"template": "ICON",
+		"title": "icon"
+	}, {
+		"endTime": "2021-09-30 00:00:00",
+		"sequence": 7,
+		"startTime": "2018-08-29 00:00:00",
+		"subModuleList": [{
+			"createTime": "2018-08-29 17:05:45",
+			"displayInfo": 7,
+			"extInfoJson": {
+				"background-color": "#000"
+			},
+			"isUse": 1,
+			"kind": "brands",
+			"moduleId": 477,
+			"remark": "首页品牌馆",
+			"sequence": 1,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=CHARLESKEITH",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/4853d464defa23d232c5da528b7c480c472387165.png",
+				"remark": "小ck",
+				"sequence": 1,
+				"startTime": "2019-04-24 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-09-30 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=Adidas",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/08bf80ff5015dfb2b83b2e7ffd23f458-557902831.png",
+				"remark": "p2",
+				"sequence": 1,
+				"startTime": "2018-08-29 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2019-11-30 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=madeinchina",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/cb8116de8dd81cadb0c056cc565d7999-1496882207.png",
+				"remark": "中国质造",
+				"sequence": 1,
+				"startTime": "2018-10-31 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2019-11-30 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=SWAROVSKI",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/800c7e751610b70847611daf3fafa001-1446698385.png",
+				"remark": "施华洛品牌馆",
+				"sequence": 2,
+				"startTime": "2018-10-29 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2019-12-31 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=ahc",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/749ad423c339acc3aba16c03e042762b-1312651209.png",
+				"remark": "AHC品牌",
+				"sequence": 2,
+				"startTime": "2018-11-26 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-01-01 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=carslan",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/a867c845c7c10a7fcb5e24e1b4e9eb00-1237290059.png",
+				"remark": "卡姿兰品牌馆",
+				"sequence": 2,
+				"startTime": "2018-11-13 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-09-30 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=nike",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/e0bfe5bf21200f87468ed45d7d607364-345452746.png",
+				"remark": "p1",
+				"sequence": 3,
+				"startTime": "2018-08-29 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-11-30 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=Vans",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/2c9678dde7e8f08c5f23bb0adcc24f8d-264835236.png",
+				"remark": "Vans",
+				"sequence": 4,
+				"startTime": "2018-10-24 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-12-31 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=NewBalance",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/1c70cd881ec50f9adaf3e0de925cfa48154305281.png",
+				"remark": "新百伦",
+				"sequence": 5,
+				"startTime": "2018-11-26 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-09-30 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=OnitsukaTiger",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/c62b07f5d8804d248d5d06ecaca56e81928824759.png",
+				"remark": "鬼冢虎",
+				"sequence": 5,
+				"startTime": "2018-08-31 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-10-31 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=PUMA",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/234f171e28e55dd3744c3f26bc422edd374809394.png",
+				"remark": "彪马",
+				"sequence": 7,
+				"startTime": "2018-09-12 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-03-31 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=FILA",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/93ec77f0b917450e37c4b50d8dc800be823202233.png",
+				"remark": "斐乐",
+				"sequence": 8,
+				"startTime": "2019-02-25 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-10-31 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=casio",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/9af992b7c2095c41f53353e9b888b83a1453699681.png",
+				"remark": "卡西欧品牌馆",
+				"sequence": 12,
+				"startTime": "2018-09-03 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-09-30 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=Converse",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/5a0b3ccadd843c7d2b6b47a9f1b4138e-72437795.png",
+				"remark": "匡威",
+				"sequence": 16,
+				"startTime": "2018-08-31 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=hs",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/0f59d192b2f9ce0aa9a090e05d3da610-208460834.png",
+				"remark": "韩束",
+				"sequence": 18,
+				"startTime": "2019-04-26 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=bql",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/384716acfc77370f18114c47ef632549-468216096.png",
+				"remark": "百雀羚",
+				"sequence": 18,
+				"startTime": "2019-04-26 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2019-11-30 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=tissot",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/99495bd227e19921ea6055a1411b3db5314993099.png",
+				"remark": "天梭品牌馆",
+				"sequence": 18,
+				"startTime": "2018-10-22 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2019-10-31 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=Royalstar",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/f65c9aec09379fc21f6cd48b01c21745321471376.png",
+				"remark": "荣事达品牌",
+				"sequence": 19,
+				"startTime": "2018-09-19 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2019-10-31 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=Midea",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/fab047f222c42894ccd2252b0ce169ea-1030916564.png",
+				"remark": "美的品牌馆",
+				"sequence": 20,
+				"startTime": "2018-09-19 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2019-11-30 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=armani",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/ca149d08423d8482ee53fc292c930f80-1927899045.png",
+				"remark": "阿玛尼品牌馆",
+				"sequence": 27,
+				"startTime": "2018-10-29 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-10-31 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=DW",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/09af641e4416190acee0eda594586a93-1575180464.png",
+				"remark": "DW品牌馆",
+				"sequence": 31,
+				"startTime": "2018-09-03 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2019-12-31 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=hengyuanxiang",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/3cd1726bb41c4ee9c4c7ac493e0993c71646241631.png",
+				"remark": "恒源祥品牌馆",
+				"sequence": 36,
+				"startTime": "2018-11-13 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2019-12-31 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=Panasonic",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/5303391422f19a5c7e07db26584df5e8-1441816641.png",
+				"remark": "松下品牌馆",
+				"sequence": 37,
+				"startTime": "2018-11-26 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-01-31 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=Timberland",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/870070f4501c9a9dd1f4840ed55d6d8d1833049067.png",
+				"remark": "添柏岚",
+				"sequence": 39,
+				"startTime": "2018-12-12 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2019-12-31 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=EsteeLauder",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/b356412ef58d8fede4dd52256818e010674645576.png",
+				"remark": "雅诗兰黛",
+				"sequence": 53,
+				"startTime": "2018-11-12 00:00:00"
+			}]
+		}],
+		"template": "BRANDS",
+		"title": "精选品牌"
+	}, {
+		"endTime": "2024-03-31 00:00:00",
+		"sequence": 11,
+		"startTime": "2018-02-27 00:00:00",
+		"subModuleList": [{
+			"createTime": "2018-11-30 21:16:17",
+			"displayInfo": 49,
+			"extInfoJson": {
+				"background-color": "#FFF"
+			},
+			"isUse": 1,
+			"kind": "activity",
+			"moduleId": 5,
+			"remark": "香水banner",
+			"sequence": 1,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2020-03-31 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=mzghpp",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/c5ac6ae629a170b6602ab3224d8166a3355349087.png",
+				"remark": "品牌香水",
+				"saleAmount": 455,
+				"sequence": 1,
+				"startTime": "2019-03-25 00:00:00"
+			}]
+		}, {
+			"createTime": "2018-11-30 21:16:17",
+			"displayInfo": 49,
+			"extInfoJson": {
+				"background-color": "#FFF",
+				"moreUrl": "/wep/credit_mall/#/brandPalace?position=shanqianggou"
+			},
+			"isUse": 1,
+			"kind": "default",
+			"moduleId": 5,
+			"remark": "香水",
+			"sequence": 2,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "罗意威（LOEWE） 001淡香水 事后清晨男士香水",
+				"marketPrice": 605.000,
+				"period": 3,
+				"periodsAmount": "189.56",
+				"preview": "https://marketcdn.wecash.net/mall/e674afb360424f4fafc08e35e30e022d",
+				"proId": 10903,
+				"remark": "罗意威（LOEWE） 001淡香水 事后清晨男士香水",
+				"saleAmount": 286,
+				"salePrice": 529.000,
+				"sequence": 1,
+				"skuCode": "zhqkjxs11932130711156",
+				"startTime": "2019-04-16 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "香奈儿（Chanel）机遇邂逅淡香水 50ml",
+				"marketPrice": 850.000,
+				"period": 3,
+				"periodsAmount": "164.48",
+				"preview": "https://marketcdn.wecash.net/mall/4dd26a3f123a48b5a5f6e1fe6283cac2",
+				"proId": 9575,
+				"remark": "香奈儿（Chanel）机遇邂逅淡香水 50ml",
+				"saleAmount": 712,
+				"salePrice": 459.000,
+				"sequence": 2,
+				"skuCode": "zhqkjxs1193209348533",
+				"startTime": "2019-04-16 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "古驰（Gucci） 花之舞栀子花香水50ml 女士香水淡香水 馥郁花香",
+				"marketPrice": 435.000,
+				"period": 3,
+				"periodsAmount": "155.88",
+				"preview": "https://marketcdn.wecash.net/mall/1743b2829cdb4a73a9d93449bc34600e",
+				"proId": 10904,
+				"remark": "古驰（Gucci） 花之舞栀子花香水50ml 女士香水淡香水 馥郁花香",
+				"saleAmount": 417,
+				"salePrice": 435.000,
+				"sequence": 3,
+				"skuCode": "zhqkjxs11932130811158",
+				"startTime": "2019-04-16 00:00:00"
+			}]
+		}, {
+			"createTime": "2019-03-29 14:42:55",
+			"displayInfo": 49,
+			"extInfoJson": {
+				"background-color": "#FFF"
+			},
+			"isUse": 1,
+			"kind": "activity",
+			"moduleId": 5,
+			"remark": "口红",
+			"sequence": 3,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2020-04-30 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=mzghpp&mallChannalId=ZD&adsource=mzghnhj",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/46b112edcffa8b24de1c941a4aae89bf-1188383568.png",
+				"remark": "口红",
+				"saleAmount": 455,
+				"sequence": 1,
+				"startTime": "2019-03-29 00:00:00"
+			}]
+		}, {
+			"createTime": "2019-03-29 14:42:55",
+			"displayInfo": 49,
+			"extInfoJson": {
+				"background-color": "#FFF",
+				"moreUrl": "/wep/credit_mall/#/brandPalace?position=kh19329"
+			},
+			"isUse": 1,
+			"kind": "default",
+			"moduleId": 5,
+			"remark": "口红商品",
+			"sequence": 4,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "阿玛尼（Armani）漆光迷情黑管镜面唇釉口红 6ml",
+				"marketPrice": 319.000,
+				"period": 3,
+				"periodsAmount": "114.31",
+				"preview": "https://marketcdn.wecash.net/mall/77a79ac008424969a356786e68553aa6",
+				"proId": 10803,
+				"remark": "阿玛尼（Armani）漆光迷情黑管镜面唇釉口红 6ml",
+				"saleAmount": 238,
+				"salePrice": 319.000,
+				"sequence": 1,
+				"skuCode": "zhqkjcb1425128010977",
+				"startTime": "2019-04-18 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "阿玛尼（Armani）挚爱哑光唇膏口红豆沙奶茶色",
+				"marketPrice": 320.000,
+				"period": 3,
+				"periodsAmount": "111.08",
+				"preview": "https://marketcdn.wecash.net/mall/e82500ce689842f1b775db9bba4feff5",
+				"proId": 10804,
+				"remark": "阿玛尼（Armani）挚爱哑光唇膏口红豆沙奶茶色",
+				"saleAmount": 519,
+				"salePrice": 310.000,
+				"sequence": 2,
+				"skuCode": "zhqkjcb1425128110981",
+				"startTime": "2019-04-18 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "魅可（Mac）棒棒糖唇釉 8.5ml",
+				"marketPrice": 210.000,
+				"period": 3,
+				"periodsAmount": "75.25",
+				"preview": "https://marketcdn.wecash.net/mall/32223ab4188a42c988b46315c41bbd4d",
+				"proId": 10805,
+				"remark": "魅可（Mac）棒棒糖唇釉 8.5ml",
+				"saleAmount": 738,
+				"salePrice": 210.000,
+				"sequence": 3,
+				"skuCode": "zhqkjcb1425128210982",
+				"startTime": "2019-04-18 00:00:00"
+			}]
+		}, {
+			"createTime": "2018-10-11 16:49:43",
+			"displayInfo": 49,
+			"extInfoJson": {
+				"background-color": "#FFF"
+			},
+			"isUse": 1,
+			"kind": "activity",
+			"moduleId": 5,
+			"remark": "CK",
+			"sequence": 5,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2020-04-30 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=zkqspp",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/1ffe8da5eca4842d838da3e96992c265295424957.png",
+				"remark": "ck ",
+				"saleAmount": 455,
+				"sequence": 1,
+				"startTime": "2019-03-07 00:00:00"
+			}]
+		}, {
+			"createTime": "2018-10-11 16:51:33",
+			"displayInfo": 49,
+			"extInfoJson": {
+				"background-color": "#FFF",
+				"moreUrl": "/wep/credit_mall/#/brandPalace?position=CHARLESKEITH"
+			},
+			"isUse": 1,
+			"kind": "default",
+			"moduleId": 5,
+			"remark": "CK商品",
+			"sequence": 6,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "CHARLES&KEITH 亮片饰女士休闲托特包",
+				"marketPrice": 499.000,
+				"period": 3,
+				"periodsAmount": "178.81",
+				"preview": "https://marketcdn.wecash.net/mall/5306f8569844430895a6f286f20d8c4d",
+				"proId": 10782,
+				"remark": "CHARLES&KEITH 亮片饰女士休闲托特包",
+				"saleAmount": 402,
+				"salePrice": 499.000,
+				"sequence": 1,
+				"skuCode": "jghldjb525704563205",
+				"startTime": "2019-04-18 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "CHARLES&KEITH 编织肩带饰女士肩包",
+				"marketPrice": 569.000,
+				"period": 3,
+				"periodsAmount": "203.89",
+				"preview": "https://marketcdn.wecash.net/mall/71b1538f554c4f43a21e5893ee074730",
+				"proId": 10786,
+				"remark": "CHARLES&KEITH 编织肩带饰女士肩包",
+				"saleAmount": 429,
+				"salePrice": 569.000,
+				"sequence": 2,
+				"skuCode": "jghldjb525704603216",
+				"startTime": "2019-04-18 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-06-01 00:00:00",
+				"insName": "CHARLES&KEITH 编织饰女士翻盖单肩包",
+				"marketPrice": 499.000,
+				"period": 3,
+				"periodsAmount": "178.81",
+				"preview": "https://marketcdn.wecash.net/mall/545e5b5e1477466987a989af6f09b517",
+				"proId": 10788,
+				"remark": "CHARLES&KEITH 编织饰女士翻盖单肩包",
+				"saleAmount": 298,
+				"salePrice": 499.000,
+				"sequence": 3,
+				"skuCode": "jghldjb525704623221",
+				"startTime": "2019-04-18 00:00:00"
+			}]
+		}, {
+			"createTime": "2018-04-12 19:10:45",
+			"displayInfo": 7,
+			"extInfoJson": {
+				"background-color": "#FFF",
+				"moreUrl": "/wep/credit_mall/#/brandPalace?position=nike"
+			},
+			"isUse": 1,
+			"kind": "activity",
+			"moduleId": 5,
+			"remark": "Nike-banner",
+			"sequence": 11,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2019-12-31 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=cxfspp&mallChannalId=ZD&adsource=cxxbnhj",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/8cccc96bcae0b2e8a1de8f0f828c563e-630777962.png",
+				"remark": "nike",
+				"sequence": 1,
+				"startTime": "2018-11-16 00:00:00"
+			}]
+		}, {
+			"createTime": "2018-04-12 19:10:45",
+			"displayInfo": 49,
+			"extInfoJson": {
+				"background-color": "#FFF",
+				"moreUrl": "/wep/credit_mall/#/brandPalace?position=nike"
+			},
+			"isUse": 1,
+			"kind": "default",
+			"moduleId": 5,
+			"remark": "nike-商品",
+			"sequence": 12,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "NIKE EPIC REACT FLYKNIT 2 2019新品瑞亚Custom跑鞋 灰白色 BQ8928-004",
+				"marketPrice": 1299.000,
+				"period": 3,
+				"periodsAmount": "257.64",
+				"preview": "https://marketcdn.wecash.net/mall/550a8d3cdb7a4416956e4489681dc3ea",
+				"proId": 10795,
+				"remark": "NIKE EPIC REACT FLYKNIT 2 2019新品瑞亚Custom跑鞋 灰白色 BQ8928-004",
+				"saleAmount": 276,
+				"salePrice": 719.000,
+				"sequence": 1,
+				"skuCode": "zhqkjpbx9756127210910",
+				"startTime": "2019-04-26 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "-耐克 NIKE AMBASSADOR XI 男子运动鞋AO2920 AO2920-003-",
+				"marketPrice": 999.000,
+				"period": 3,
+				"periodsAmount": "357.98",
+				"preview": "https://marketcdn.wecash.net/mall/03731a3b40e841368ec402cf93d2fbff",
+				"proId": 10211,
+				"remark": "-耐克 NIKE AMBASSADOR XI 男子运动鞋AO2920 AO2920-003-",
+				"saleAmount": 389,
+				"salePrice": 999.000,
+				"sequence": 1,
+				"skuCode": "zhqkjlqx975711139855",
+				"startTime": "2019-04-26 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-06-30 00:00:00",
+				"insName": "耐克 NIKE SPORTSWEAR 男子翻领休闲T恤 909747 909747-100",
+				"marketPrice": 299.000,
+				"period": 3,
+				"periodsAmount": "107.14",
+				"preview": "https://marketcdn.wecash.net/mall/6713f1b5541f4b748559331ba1875624",
+				"proId": 10038,
+				"remark": "耐克 NIKE SPORTSWEAR 男子翻领休闲T恤 909747 909747-100",
+				"saleAmount": 532,
+				"salePrice": 299.000,
+				"sequence": 1,
+				"skuCode": "zhqkjwy973210729581",
+				"startTime": "2019-05-06 00:00:00"
+			}]
+		}, {
+			"createTime": "2019-02-27 15:32:13",
+			"displayInfo": 49,
+			"extInfoJson": {
+				"background-color": "#FFF"
+			},
+			"isUse": 1,
+			"kind": "activity",
+			"moduleId": 5,
+			"remark": "中国质造",
+			"sequence": 13,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2021-03-31 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=cxfspp&mallChannalId=ZD&adsource=cxxbnhj",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/74936e3a97fc1478d176da03c90b25cb2109444281.png",
+				"remark": "中国质造",
+				"saleAmount": 455,
+				"sequence": 1,
+				"startTime": "2019-02-27 00:00:00"
+			}]
+		}, {
+			"createTime": "2019-02-27 15:32:13",
+			"displayInfo": 49,
+			"extInfoJson": {
+				"background-color": "#FFF",
+				"moreUrl": "/wep/credit_mall/#/brandPalace?position=madeinchina"
+			},
+			"isUse": 1,
+			"kind": "default",
+			"moduleId": 5,
+			"remark": "中国质造商品",
+			"sequence": 14,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "情侣小白鞋男女情侣鞋小熊鞋020",
+				"marketPrice": 299.000,
+				"period": 3,
+				"periodsAmount": "92.81",
+				"preview": "https://marketcdn.wecash.net/mall/8f9207fe7e1d44e58c3c86d837e5e806",
+				"proId": 10465,
+				"remark": "情侣小白鞋男女情侣鞋小熊鞋020",
+				"saleAmount": 331,
+				"salePrice": 259.000,
+				"sequence": 1,
+				"skuCode": "zhqkjxxx9754122810431",
+				"startTime": "2019-04-26 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "情侣小熊底情侣鞋休闲鞋0522",
+				"marketPrice": 299.000,
+				"period": 3,
+				"periodsAmount": "92.81",
+				"preview": "https://marketcdn.wecash.net/mall/909ee7a2f7ee49119deff8334738dc7c",
+				"proId": 10466,
+				"remark": "情侣小熊底情侣鞋休闲鞋0522",
+				"saleAmount": 457,
+				"salePrice": 259.000,
+				"sequence": 2,
+				"skuCode": "zhqkjxxx9754122910490",
+				"startTime": "2019-04-26 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "情侣春夏新款标准运动鞋KB12",
+				"marketPrice": 319.000,
+				"period": 3,
+				"periodsAmount": "99.98",
+				"preview": "https://marketcdn.wecash.net/mall/4d7ce89b8c614920a4dc8965dca0ff37",
+				"proId": 10472,
+				"remark": "情侣春夏新款标准运动鞋KB12",
+				"saleAmount": 326,
+				"salePrice": 279.000,
+				"sequence": 3,
+				"skuCode": "zhqkjxxx9754123410564",
+				"startTime": "2019-04-26 00:00:00"
+			}]
+		}, {
+			"createTime": "2019-04-12 18:44:07",
+			"displayInfo": 49,
+			"extInfoJson": {
+				"background-color": "#FFF",
+				"moreUrl": ""
+			},
+			"isUse": 1,
+			"kind": "activity",
+			"moduleId": 5,
+			"remark": "医美",
+			"sequence": 15,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=mzghpp",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/8e01cc310608f9cc099baa7b4821de93-153381443.png",
+				"remark": "医美",
+				"saleAmount": 455,
+				"sequence": 1,
+				"startTime": "2019-04-12 00:00:00"
+			}]
+		}, {
+			"createTime": "2019-04-12 18:44:07",
+			"displayInfo": 49,
+			"extInfoJson": {
+				"background-color": "#FFF",
+				"moreUrl": "/wep/credit_mall/#/brandPalace?position=ym19412"
+			},
+			"isUse": 1,
+			"kind": "default",
+			"moduleId": 5,
+			"remark": "医美商品",
+			"sequence": 16,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2020-08-31 00:00:00",
+				"insName": "绿芙芙 男女清痘重建补水面膜 2盒装",
+				"marketPrice": 356.000,
+				"period": 3,
+				"periodsAmount": "111.08",
+				"preview": "https://marketcdn.wecash.net/mall/330463aa12224c328ba8281d5d6472e8",
+				"proId": 10399,
+				"remark": "绿芙芙 男女清痘重建补水面膜 2盒装",
+				"saleAmount": 391,
+				"salePrice": 310.000,
+				"sequence": 1,
+				"skuCode": "jghlmm139203461719",
+				"startTime": "2019-07-19 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "敷尔佳 敏感祛痘面膜 黑膜院线版",
+				"marketPrice": 209.000,
+				"period": 1,
+				"periodsAmount": "205.00",
+				"preview": "https://marketcdn.wecash.net/mall/27ce479426374297ab236694ef6633b7",
+				"proId": 10266,
+				"remark": "敷尔佳 敏感祛痘面膜 黑膜院线版",
+				"saleAmount": 724,
+				"salePrice": 200.000,
+				"sequence": 1,
+				"skuCode": "jghlmm139203271693",
+				"startTime": "2019-04-26 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "敷尔佳 1疗程 祛痘修复面膜 白膜院线版",
+				"marketPrice": 296.000,
+				"period": 3,
+				"periodsAmount": "98.90",
+				"preview": "https://marketcdn.wecash.net/mall/bece2d72d92549d08bd89500fe00eb26",
+				"proId": 10263,
+				"remark": "敷尔佳 1疗程 祛痘修复面膜 白膜院线版",
+				"saleAmount": 539,
+				"salePrice": 276.000,
+				"sequence": 3,
+				"skuCode": "jghlmm139203241690",
+				"startTime": "2019-04-26 00:00:00"
+			}]
+		}, {
+			"createTime": "2018-10-11 16:49:43",
+			"displayInfo": 49,
+			"extInfoJson": {
+				"background-color": "#FFF"
+			},
+			"isUse": 1,
+			"kind": "activity",
+			"moduleId": 5,
+			"remark": "美的",
+			"sequence": 17,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2019-11-30 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=smjdpp",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/74bd0272ff0f2c1606cc5ac1af4539811940989803.png",
+				"remark": "品牌",
+				"saleAmount": 455,
+				"sequence": 1,
+				"startTime": "2018-10-11 00:00:00"
+			}]
+		}, {
+			"createTime": "2018-10-11 16:49:43",
+			"displayInfo": 49,
+			"extInfoJson": {
+				"background-color": "#FFF",
+				"moreUrl": "/wep/credit_mall/#/brandPalace?position=Midea"
+			},
+			"isUse": 1,
+			"kind": "default",
+			"moduleId": 5,
+			"remark": "美的商品",
+			"sequence": 18,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "美的 电饭煲 4L大容量智能预约 多功能家用",
+				"marketPrice": 499.000,
+				"period": 3,
+				"periodsAmount": "107.14",
+				"preview": "https://marketcdn.wecash.net/mall/025f1c4683104f708494e0ab7d919a41",
+				"proId": 9380,
+				"remark": "美的 电饭煲 4L大容量智能预约 多功能家用",
+				"saleAmount": 660,
+				"salePrice": 299.000,
+				"sequence": 1,
+				"skuCode": "ldsmdfz75308060896",
+				"startTime": "2019-04-18 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2019-11-30 00:00:00",
+				"insName": "美的 养生壶 煎药壶GE1706a",
+				"marketPrice": 499.000,
+				"period": 3,
+				"periodsAmount": "142.98",
+				"preview": "https://marketcdn.wecash.net/market/PD/556/79261e6d837167fffa8992f283f7427b1.jpg",
+				"proId": 556,
+				"remark": "美的 养生壶 煎药壶GE1706a",
+				"saleAmount": 685,
+				"salePrice": 399.000,
+				"sequence": 1,
+				"skuCode": "22689",
+				"startTime": "2018-10-11 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "美的 多用途锅分体式家用电煮锅 电炒锅DHY28 大容量（赠汤勺+漏勺+筷子）",
+				"marketPrice": 399.000,
+				"period": 3,
+				"periodsAmount": "89.23",
+				"preview": "https://marketcdn.wecash.net/mall/b9d03069a8004fd9bea1ed0b978db9f0",
+				"proId": 8591,
+				"remark": "美的 多用途锅分体式家用电煮锅 电炒锅DHY28 大容量（赠汤勺+漏勺+筷子）",
+				"saleAmount": 2005,
+				"salePrice": 249.000,
+				"sequence": 4,
+				"skuCode": "ldsmdcl75707740846",
+				"startTime": "2019-04-18 00:00:00"
+			}]
+		}, {
+			"createTime": "2018-04-11 16:03:57",
+			"displayInfo": 7,
+			"extInfoJson": {
+				"background-color": "#FFF",
+				"moreUrl": "/wep/credit_mall/#/productList?code=entity_wawj"
+			},
+			"isUse": 1,
+			"kind": "activity",
+			"moduleId": 5,
+			"remark": "AHC-banner",
+			"sequence": 19,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2019-12-31 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=mzghpp&mallChannalId=ZD&adsource=mzghnhj",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/241ac1ce4979bcc0a2213319a48f29bf1785665985.png",
+				"remark": "ahc",
+				"sequence": 1,
+				"startTime": "2018-11-29 00:00:00"
+			}]
+		}, {
+			"createTime": "2018-04-11 16:03:57",
+			"displayInfo": 49,
+			"extInfoJson": {
+				"background-color": "#FFF",
+				"moreUrl": "/wep/credit_mall/#/brandPalace?position=ahc"
+			},
+			"isUse": 1,
+			"kind": "default",
+			"moduleId": 5,
+			"remark": "AHC-商品",
+			"sequence": 20,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "超值购！韩国AHC面膜买一送一: 新款B5玻尿酸爆水晚安免洗睡眠面膜 +送同款",
+				"marketPrice": 300.000,
+				"period": 1,
+				"periodsAmount": "205.00",
+				"preview": "https://marketcdn.wecash.net/mall/cd9d850ca3bd457cabb5ce2059fc1e79",
+				"proId": 9560,
+				"remark": "超值购！韩国AHC面膜买一送一: 新款B5玻尿酸爆水晚安免洗睡眠面膜 +送同款",
+				"saleAmount": 2498,
+				"salePrice": 200.000,
+				"sequence": 1,
+				"skuCode": "jcyxmm139210404137",
+				"startTime": "2019-04-18 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "韩国AHC特惠两件套A：B5玻尿酸臻致面霜50ml +送6代眼霜30ml提亮修复 紧致毛孔",
+				"marketPrice": 389.000,
+				"period": 3,
+				"periodsAmount": "102.84",
+				"preview": "https://marketcdn.wecash.net/mall/b21aeda3036b47639a96119c49d5ae40",
+				"proId": 9558,
+				"remark": "韩国AHC特惠两件套A：B5玻尿酸臻致面霜50ml +送6代眼霜30ml提亮修复 紧致毛孔",
+				"saleAmount": 1098,
+				"salePrice": 287.000,
+				"sequence": 2,
+				"skuCode": "jcyxtz139610384135",
+				"startTime": "2019-04-18 00:00:00"
+			}]
+		}, {
+			"createTime": "2018-10-11 16:49:43",
+			"displayInfo": 49,
+			"extInfoJson": {
+				"background-color": "#FFF"
+			},
+			"isUse": 1,
+			"kind": "activity",
+			"moduleId": 5,
+			"remark": "彪马",
+			"sequence": 25,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2019-11-30 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=cxfspp&mallChannalId=ZD&adsource=cxxbnhj",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/0a9f3d4266fd7b28616eed908b8b8f231286646921.png",
+				"remark": "品牌",
+				"saleAmount": 455,
+				"sequence": 1,
+				"startTime": "2018-10-11 00:00:00"
+			}]
+		}, {
+			"createTime": "2018-10-11 16:49:43",
+			"displayInfo": 49,
+			"extInfoJson": {
+				"background-color": "#FFF",
+				"moreUrl": "/wep/credit_mall/#/brandPalace?position=PUMA"
+			},
+			"isUse": 1,
+			"kind": "default",
+			"moduleId": 5,
+			"remark": "彪马商品",
+			"sequence": 26,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": " Punma Suede Classic LFS彪马休闲板鞋 白红 354367-24",
+				"marketPrice": 699.000,
+				"period": 3,
+				"periodsAmount": "250.48",
+				"preview": "https://marketcdn.wecash.net/mall/bd0795e325204ca7ae82bf444692f4b7",
+				"proId": 10801,
+				"remark": " Punma Suede Classic LFS彪马休闲板鞋 白红 354367-24",
+				"saleAmount": 233,
+				"salePrice": 699.000,
+				"sequence": 1,
+				"skuCode": "zhqkjxxx9754127810949",
+				"startTime": "2019-04-26 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "彪马Basket Platform  蕾哈娜休闲松糕鞋皮面白金354367 17",
+				"marketPrice": 599.000,
+				"period": 3,
+				"periodsAmount": "196.73",
+				"preview": "https://marketcdn.wecash.net/mall/6f53d9a2b8274beebddf0523c11af69a",
+				"proId": 8879,
+				"remark": "彪马Basket Platform  蕾哈娜休闲松糕鞋皮面白金354367 17",
+				"saleAmount": 370,
+				"salePrice": 549.000,
+				"sequence": 2,
+				"skuCode": "zhqkjxxx975408137031",
+				"startTime": "2019-04-26 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-06-01 00:00:00",
+				"insName": "PUMA彪马正品 春夏男子圆领短袖T恤 579411 黑色 01",
+				"marketPrice": 249.000,
+				"period": 3,
+				"periodsAmount": "89.23",
+				"preview": "https://marketcdn.wecash.net/mall/c83b080a91314c859c6bb0771d354867",
+				"proId": 10426,
+				"remark": "PUMA彪马正品 春夏男子圆领短袖T恤 579411 黑色 01",
+				"saleAmount": 227,
+				"salePrice": 249.000,
+				"sequence": 3,
+				"skuCode": "zhqkjtx9765121010281",
+				"startTime": "2019-04-26 00:00:00"
+			}]
+		}, {
+			"createTime": "2018-10-11 16:49:43",
+			"displayInfo": 49,
+			"extInfoJson": {
+				"background-color": "#FFF"
+			},
+			"isUse": 1,
+			"kind": "activity",
+			"moduleId": 5,
+			"remark": "DW",
+			"sequence": 29,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2019-11-30 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=zkqspp&mallChannalId=ZD&adsource=zkqsnhj",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/68e06b0552a2f3a37d8c05eeec4325511317344934.png",
+				"remark": "品牌",
+				"saleAmount": 455,
+				"sequence": 1,
+				"startTime": "2018-10-11 00:00:00"
+			}]
+		}, {
+			"createTime": "2018-10-11 16:49:43",
+			"displayInfo": 49,
+			"extInfoJson": {
+				"background-color": "#FFF",
+				"moreUrl": "/wep/credit_mall/#/brandPalace?position=DW"
+			},
+			"isUse": 1,
+			"kind": "default",
+			"moduleId": 5,
+			"remark": "DW商品",
+			"sequence": 30,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "丹尼尔惠灵顿（DanielWellington）DW时尚男表皮带超薄石英表0107DW",
+				"marketPrice": 2660.000,
+				"period": 3,
+				"periodsAmount": "390.58",
+				"preview": "https://marketcdn.wecash.net/images/mrd/dwnssssb.jpg?x-oss-process=image/resize,p_50",
+				"proId": 300,
+				"remark": "丹尼尔惠灵顿（DanielWellington）DW时尚男表皮带超薄石英表0107DW",
+				"saleAmount": 359,
+				"salePrice": 1090.000,
+				"sequence": 1,
+				"skuCode": "4037460009",
+				"startTime": "2019-04-01 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "DW  Classy系列女款皮带表带金色表盘手表0901DW",
+				"marketPrice": 1960.000,
+				"period": 3,
+				"periodsAmount": "393.81",
+				"preview": "https://marketcdn.wecash.net/market/PD/4170/9eb398652d6123f84bfa84e922c4e9501.jpg",
+				"proId": 4170,
+				"remark": "DW  Classy系列女款皮带表带金色表盘手表0901DW",
+				"saleAmount": 695,
+				"salePrice": 1099.000,
+				"sequence": 2,
+				"skuCode": "10376600100293",
+				"startTime": "2019-04-18 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "丹尼尔惠灵顿（DanielWellington）女表 DW32mm金边黑盘金属表带欧美表DW00100161 ",
+				"marketPrice": 1109.000,
+				"period": 3,
+				"periodsAmount": "390.58",
+				"preview": "https://marketcdn.wecash.net/mall/d3ddba955c2b4a5d96f3ca1608cd0ba6",
+				"proId": 5683,
+				"remark": "丹尼尔惠灵顿（DanielWellington）女表 DW32mm金边黑盘金属表带欧美表DW00100161 ",
+				"saleAmount": 1301,
+				"salePrice": 1090.000,
+				"sequence": 3,
+				"skuCode": "srzdomb1366803960441",
+				"startTime": "2019-04-18 00:00:00"
+			}]
+		}, {
+			"createTime": "2018-10-11 16:49:43",
+			"displayInfo": 49,
+			"extInfoJson": {
+				"background-color": "#FFF"
+			},
+			"isUse": 1,
+			"kind": "activity",
+			"moduleId": 5,
+			"remark": "斐乐banner",
+			"sequence": 35,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2020-02-29 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=fzpspp",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/4405ad353e20f4487881ebce86f7784b-2061069716.png",
+				"remark": "品牌",
+				"saleAmount": 455,
+				"sequence": 1,
+				"startTime": "2019-02-25 00:00:00"
+			}]
+		}, {
+			"createTime": "2018-10-11 16:49:43",
+			"displayInfo": 49,
+			"extInfoJson": {
+				"background-color": "#FFF",
+				"moreUrl": "/wep/credit_mall/#/brandPalace?position=FILA"
+			},
+			"isUse": 1,
+			"kind": "default",
+			"moduleId": 5,
+			"remark": "斐乐商品",
+			"sequence": 36,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "FILA X Phillip Lim 男T恤",
+				"marketPrice": 580.000,
+				"period": 3,
+				"periodsAmount": "154.08",
+				"preview": "https://marketcdn.wecash.net/mall/8b2e887ca41d417b82862ea88b47b024",
+				"proId": 10483,
+				"remark": "FILA X Phillip Lim 男T恤",
+				"saleAmount": 396,
+				"salePrice": 430.000,
+				"sequence": 1,
+				"skuCode": "jghlcs134803691846",
+				"startTime": "2019-04-26 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "FILA 斐乐米兰款女子针织T恤",
+				"marketPrice": 440.000,
+				"period": 3,
+				"periodsAmount": "142.98",
+				"preview": "https://marketcdn.wecash.net/mall/ed82ab6aa35b437b96b3b1a5a980ca4c",
+				"proId": 10484,
+				"remark": "FILA 斐乐米兰款女子针织T恤",
+				"saleAmount": 366,
+				"salePrice": 399.000,
+				"sequence": 1,
+				"skuCode": "jghlcs135403701858",
+				"startTime": "2019-04-26 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "FILA 斐乐男子短袖T恤",
+				"marketPrice": 480.000,
+				"period": 3,
+				"periodsAmount": "142.98",
+				"preview": "https://marketcdn.wecash.net/mall/73bbc12f6206475a8912d56168e541f8",
+				"proId": 10476,
+				"remark": "FILA 斐乐男子短袖T恤",
+				"saleAmount": 438,
+				"salePrice": 399.000,
+				"sequence": 1,
+				"skuCode": "jghlcs134803621772",
+				"startTime": "2019-04-26 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "FILA 斐乐MB1男子复古篮球鞋",
+				"marketPrice": 980.000,
+				"period": 3,
+				"periodsAmount": "232.56",
+				"preview": "https://marketcdn.wecash.net/mall/7941cdcaf3624d75af3942c1c3dd8401",
+				"proId": 9836,
+				"remark": "FILA 斐乐MB1男子复古篮球鞋",
+				"saleAmount": 371,
+				"salePrice": 649.000,
+				"sequence": 1,
+				"skuCode": "jghlxxx975401810789",
+				"startTime": "2019-04-18 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "FILA 斐乐女款春季透气运动鞋",
+				"marketPrice": 840.000,
+				"period": 3,
+				"periodsAmount": "214.64",
+				"preview": "https://marketcdn.wecash.net/mall/814b2785880b4238afb7051f75cf04ff",
+				"proId": 9837,
+				"remark": "FILA 斐乐女款春季透气运动鞋",
+				"saleAmount": 495,
+				"salePrice": 599.000,
+				"sequence": 2,
+				"skuCode": "jghlxxx975401820804",
+				"startTime": "2019-04-18 00:00:00"
+			}]
+		}, {
+			"createTime": "2018-09-12 12:01:14",
+			"displayInfo": 7,
+			"extInfoJson": {
+				"background-color": "#FFF",
+				"moreUrl": "/wep/credit_mall/#/brandPalace?position=armani"
+			},
+			"isUse": 1,
+			"kind": "activity",
+			"moduleId": 5,
+			"remark": "阿玛尼品牌",
+			"sequence": 39,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2019-12-31 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=zkqspp&mallChannalId=ZD&adsource=zkqsnhj",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/fe3bf15a742a0f2f5bdb1e87b5500ec7-1300179486.png",
+				"remark": "阿玛尼",
+				"sequence": 1,
+				"startTime": "2018-11-16 00:00:00"
+			}]
+		}, {
+			"createTime": "2018-09-12 12:01:14",
+			"displayInfo": 60,
+			"extInfoJson": {
+				"background-color": "#FFF",
+				"moreUrl": "/wep/credit_mall/#/brandPalace?position=armani"
+			},
+			"isUse": 1,
+			"kind": "default",
+			"moduleId": 5,
+			"remark": "阿玛尼商品",
+			"sequence": 40,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "阿玛尼（Emporio Armani)皮带休闲时尚石英男表AR2074",
+				"marketPrice": 2540.000,
+				"period": 3,
+				"periodsAmount": "465.12",
+				"preview": "https://marketcdn.wecash.net/mall/25050446fbc54413a56ee066d2357b77",
+				"proId": 10101,
+				"remark": "阿玛尼（Emporio Armani)皮带休闲时尚石英男表AR2074",
+				"saleAmount": 426,
+				"salePrice": 1298.000,
+				"sequence": 1,
+				"skuCode": "srzdomb1366805120632",
+				"startTime": "2019-04-18 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "阿玛尼（ARMANI）新款女士腕表英伦风指针式女士非机械石英手表AR1911",
+				"marketPrice": 1299.000,
+				"period": 3,
+				"periodsAmount": "429.28",
+				"preview": "https://marketcdn.wecash.net/market/PD/3674/08088e3d6831d6aa3cfee663b5eac63e1.jpg",
+				"proId": 3674,
+				"remark": "阿玛尼（ARMANI）新款女士腕表英伦风指针式女士非机械石英手表AR1911",
+				"saleAmount": 456,
+				"salePrice": 1198.000,
+				"sequence": 2,
+				"skuCode": "10096200340289",
+				"startTime": "2019-04-18 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "阿玛尼(Emporio Armani)皮制表带时尚腕表休闲简约石英女表AR1679",
+				"marketPrice": 2540.000,
+				"period": 3,
+				"periodsAmount": "498.08",
+				"preview": "https://marketcdn.wecash.net/mall/536ebfe077b94ce9a079a1cd400ec22d",
+				"proId": 10271,
+				"remark": "阿玛尼(Emporio Armani)皮制表带时尚腕表休闲简约石英女表AR1679",
+				"saleAmount": 310,
+				"salePrice": 1390.000,
+				"sequence": 3,
+				"skuCode": "srzdomb1366805500674",
+				"startTime": "2019-04-18 00:00:00"
+			}]
+		}, {
+			"createTime": "2018-10-11 16:49:43",
+			"displayInfo": 49,
+			"extInfoJson": {
+				"background-color": "#FFF"
+			},
+			"isUse": 1,
+			"kind": "activity",
+			"moduleId": 5,
+			"remark": "荣事达banner",
+			"sequence": 45,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2019-11-30 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=smjdpp",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/0e4c9240a185c9fee41be322f3875d75-2042262078.png",
+				"remark": "品牌",
+				"saleAmount": 455,
+				"sequence": 1,
+				"startTime": "2018-10-11 00:00:00"
+			}]
+		}, {
+			"createTime": "2018-10-11 16:49:43",
+			"displayInfo": 49,
+			"extInfoJson": {
+				"background-color": "#FFF",
+				"moreUrl": "/wep/credit_mall/#/brandPalace?position=Royalstar"
+			},
+			"isUse": 1,
+			"kind": "default",
+			"moduleId": 5,
+			"remark": "荣事达商品",
+			"sequence": 46,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2020-03-31 00:00:00",
+				"insName": "荣事达 1.8升 12大功能养生壶/花茶壶 YSH18F13",
+				"marketPrice": 210.000,
+				"period": 3,
+				"periodsAmount": "82.06",
+				"preview": "https://marketcdn.wecash.net/mall/c9eca4add2824594b07442e0050ea4e5",
+				"proId": 9721,
+				"remark": "荣事达养生壶耐高温花茶壶YSH8058",
+				"saleAmount": 413,
+				"salePrice": 229.000,
+				"sequence": 1,
+				"skuCode": "jghlysh#jyh1239700873063",
+				"startTime": "2019-02-27 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-03-31 00:00:00",
+				"insName": "荣事达 5L韩式多功能电热锅/电火锅/电煮锅 SK30W",
+				"marketPrice": 299.000,
+				"period": 3,
+				"periodsAmount": "85.64",
+				"preview": "https://marketcdn.wecash.net/mall/0ac56ba804ac4ddea872b82e760970a4",
+				"proId": 9720,
+				"remark": "荣事达蒸炒煮大容量电热锅SK30W",
+				"saleAmount": 575,
+				"salePrice": 239.000,
+				"sequence": 1,
+				"skuCode": "jghldytg75400860122",
+				"startTime": "2019-02-28 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-03-01 00:00:00",
+				"insName": "荣事达 2L 炖汤/煮粥煲/陶瓷煲",
+				"marketPrice": 269.000,
+				"period": 3,
+				"periodsAmount": "94.96",
+				"preview": "https://marketcdn.wecash.net/mall/2814154c8c674dae932d7c14641a2496",
+				"proId": 9730,
+				"remark": "荣事达迪士尼系列2L陶瓷电炖锅 煲汤",
+				"saleAmount": 658,
+				"salePrice": 265.000,
+				"sequence": 2,
+				"skuCode": "jghldzg924900930129",
+				"startTime": "2019-02-28 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-03-31 00:00:00",
+				"insName": "荣事达 3升多功能小火锅/电炒锅/电煮锅/电热锅 HG618",
+				"marketPrice": 350.000,
+				"period": 3,
+				"periodsAmount": "92.81",
+				"preview": "https://marketcdn.wecash.net/mall/19ca25458cc54b51a72c461fde05a0ca",
+				"proId": 9732,
+				"remark": "荣事达3升容量多功能小火锅电炒锅电煮锅电热火锅",
+				"saleAmount": 499,
+				"salePrice": 259.000,
+				"sequence": 3,
+				"skuCode": "jghldytg75400940130",
+				"startTime": "2019-02-28 00:00:00"
+			}]
+		}, {
+			"createTime": "2018-10-11 16:49:43",
+			"displayInfo": 49,
+			"extInfoJson": {
+				"background-color": "#FFF"
+			},
+			"isUse": 1,
+			"kind": "activity",
+			"moduleId": 5,
+			"remark": "卡西欧",
+			"sequence": 49,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2019-11-30 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=zkqspp&mallChannalId=ZD&adsource=zkqsnhj",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/fa820367f162a13cec9af9852ba4e163-1042932576.png",
+				"remark": "品牌",
+				"saleAmount": 455,
+				"sequence": 1,
+				"startTime": "2018-10-11 00:00:00"
+			}]
+		}, {
+			"createTime": "2018-10-11 16:49:43",
+			"displayInfo": 49,
+			"extInfoJson": {
+				"background-color": "#FFF",
+				"moreUrl": "/wep/credit_mall/#/brandPalace?position=casio"
+			},
+			"isUse": 1,
+			"kind": "default",
+			"moduleId": 5,
+			"remark": "卡西欧商品",
+			"sequence": 50,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "卡西欧(CASIO)手表G-SHOCK系列时尚魔金双显运动石英男表GA-110GB-1A",
+				"marketPrice": 1499.000,
+				"period": 3,
+				"periodsAmount": "447.56",
+				"preview": "https://marketcdn.wecash.net/market/PD/3676/ac14661e7ee6632230af03b427e1a3291.jpg",
+				"proId": 3676,
+				"remark": "卡西欧(CASIO)手表G-SHOCK系列时尚魔金双显运动石英男表GA-110GB-1A",
+				"saleAmount": 1034,
+				"salePrice": 1249.000,
+				"sequence": 1,
+				"skuCode": "10096200360291",
+				"startTime": "2019-04-18 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "卡西欧 手表 G-SHOCK YOUTH系列 丛林迷彩 男士防震防磁防水运动手表 GA-100CF-1A9",
+				"marketPrice": 1499.000,
+				"period": 3,
+				"periodsAmount": "375.89",
+				"preview": "https://marketcdn.wecash.net/mall/2ed7d5d188d44282843dd6e78c112afd",
+				"proId": 8828,
+				"remark": "卡西欧 手表 G-SHOCK YOUTH系列 丛林迷彩 男士防震防磁防水运动手表 GA-100CF-1A9",
+				"saleAmount": 1246,
+				"salePrice": 1049.000,
+				"sequence": 2,
+				"skuCode": "srzdrhb1366904140466",
+				"startTime": "2019-04-18 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2020-05-31 00:00:00",
+				"insName": "卡西欧(CASIO)女表 新款指针系列时尚商务女士石英手表 LTP-1358L-4A",
+				"marketPrice": 589.000,
+				"period": 3,
+				"periodsAmount": "193.14",
+				"preview": "https://marketcdn.wecash.net/mall/2d18dc9514054cb69eb34990962a69e4",
+				"proId": 8830,
+				"remark": "卡西欧(CASIO)女表 新款指针系列时尚商务女士石英手表 LTP-1358L-4A",
+				"saleAmount": 586,
+				"salePrice": 539.000,
+				"sequence": 3,
+				"skuCode": "jykjrhb1366901090187",
+				"startTime": "2019-04-18 00:00:00"
+			}]
+		}],
+		"template": "BIGIMG_ACTIVITY_PRODUCT",
+		"title": "精选活动"
+	}],
+	"errorDescription": "success",
+	"successful": "1"
+}
