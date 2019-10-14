@@ -1,0 +1,231 @@
+{
+  "//": "商城品牌馆-珠宝", 
+	"data": [{
+		"endTime": "2019-11-30 00:00:00",
+		"sequence": 1,
+		"startTime": "2018-10-28 00:00:00",
+		"subModuleList": [{
+			"createTime": "2018-10-28 23:17:12",
+			"displayInfo": 7,
+			"extInfoJson": {
+				"background-color": "#fff"
+			},
+			"isUse": 1,
+			"kind": "activity",
+			"moduleId": 575,
+			"remark": "b1",
+			"sequence": 1,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2019-11-30 00:00:00",
+				"link": "/wep/credit_mall/#/brandPalace?position=SWAROVSKI",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/16c660ad899bf8666c5f72b4edecac76-2085809752.png",
+				"remark": "b1",
+				"sequence": 1,
+				"startTime": "2018-10-28 00:00:00"
+			}]
+		}, {
+			"createTime": "2018-10-28 23:17:12",
+			"displayInfo": 7,
+			"extInfoJson": {
+				"background-color": "#fff"
+			},
+			"isUse": 1,
+			"kind": "ticket",
+			"moduleId": 575,
+			"remark": "y2",
+			"sequence": 2,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2019-11-30 00:00:00",
+				"link": "5b62cb02e4b0ab26748599ed",
+				"preview": "https://marketcdn.wecash.net/mall/modulePic/7f4bf25c517ec8f6745ad18b048ac1f9-1816038529.png",
+				"remark": "y2",
+				"sequence": 2,
+				"startTime": "2018-10-28 00:00:00"
+			}]
+		}],
+		"template": "BIGIMG_ACTIVITY_PRODUCT",
+		"title": "施华洛品牌馆"
+	}, {
+		"endTime": "2019-11-30 00:00:00",
+		"sequence": 2,
+		"startTime": "2018-10-28 00:00:00",
+		"subModuleList": [{
+			"createTime": "2018-10-28 23:18:20",
+			"displayInfo": 7,
+			"extInfoJson": {
+				"background-color": "#fff"
+			},
+			"isUse": 1,
+			"kind": "brand_hot",
+			"moduleId": 576,
+			"remark": "爆款热卖丨RECOMMEND",
+			"sequence": 1,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2019-11-30 00:00:00",
+				"insName": "SWAROVSKI 施华洛世奇 爱恋天鹅 镀白金色SWAN LAKE 项链女 锁骨链 女友礼物",
+				"marketPrice": 1999.000,
+				"period": 3,
+				"periodsAmount": "462.25",
+				"preview": "https://marketcdn.wecash.net/mall/4edb530d63244e66a512bd3735e6f16d",
+				"proId": 9279,
+				"remark": "SWAROVSKI 施华洛世奇 爱恋天鹅 镀白金色SWAN LAKE 项链女 锁骨链 女友礼物",
+				"salePrice": 1290.000,
+				"sequence": 1,
+				"skuCode": "jykjxl618801950390",
+				"startTime": "2018-10-28 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2019-11-30 00:00:00",
+				"insName": "SWAROVSKI 施华洛世奇 双心项链 时尚妩媚锁骨链女",
+				"marketPrice": 1690.000,
+				"period": 3,
+				"periodsAmount": "462.25",
+				"preview": "https://marketcdn.wecash.net/mall/78dc5472c0144a08aaae5627150998bd",
+				"proId": 9272,
+				"remark": "SWAROVSKI 施华洛世奇 双心项链 时尚妩媚锁骨链女",
+				"salePrice": 1290.000,
+				"sequence": 2,
+				"skuCode": "jykjxl618801880383",
+				"startTime": "2018-10-28 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2019-11-30 00:00:00",
+				"insName": "SWAROVSKI施华洛世奇DearMedium心心相印永恒不变的爱手链5194838",
+				"marketPrice": 1599.000,
+				"period": 3,
+				"periodsAmount": "429.64",
+				"preview": "https://marketcdn.wecash.net/market/PD/3652/231eec54936d7a32b3df0a7274fbbe861.jpg",
+				"proId": 3652,
+				"remark": "SWAROVSKI施华洛世奇DearMedium心心相印永恒不变的爱手链5194838",
+				"salePrice": 1199.000,
+				"sequence": 3,
+				"skuCode": "10636400170267",
+				"startTime": "2018-10-28 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2019-11-30 00:00:00",
+				"insName": "SWAROVSKI施华洛世奇TwistyDrop玫瑰金色手镯5073594",
+				"marketPrice": 999.000,
+				"period": 3,
+				"periodsAmount": "318.92",
+				"preview": "https://marketcdn.wecash.net/market/PD/3650/00869a3c1693ec3a200d5645aa53b7811.jpg",
+				"proId": 3650,
+				"remark": "SWAROVSKI施华洛世奇TwistyDrop玫瑰金色手镯5073594",
+				"salePrice": 890.000,
+				"sequence": 4,
+				"skuCode": "10636400150265",
+				"startTime": "2018-10-28 00:00:00"
+			}]
+		}],
+		"template": "BRAND_HOT",
+		"title": "爆款热卖丨RECOMMEND"
+	}, {
+		"endTime": "2019-11-30 00:00:00",
+		"sequence": 3,
+		"startTime": "2018-10-28 00:00:00",
+		"subModuleList": [{
+			"createTime": "2018-10-28 23:19:02",
+			"displayInfo": 7,
+			"extInfoJson": {
+				"background-color": "#fff"
+			},
+			"isUse": 1,
+			"kind": "brand_tow_line",
+			"moduleId": 577,
+			"remark": "品牌推荐丨BRAND",
+			"sequence": 1,
+			"userModuleProducts": [{
+				"empty": 0,
+				"endTime": "2019-11-30 00:00:00",
+				"insName": "SWAROVSKI施华洛世奇双色MATCH项链1062708",
+				"marketPrice": 1099.000,
+				"period": 3,
+				"periodsAmount": "354.75",
+				"preview": "https://marketcdn.wecash.net/market/PD/3642/85b0d19745978f841f649d8aa5e4cc981.jpg",
+				"proId": 3642,
+				"remark": "SWAROVSKI施华洛世奇双色MATCH项链1062708",
+				"salePrice": 990.000,
+				"sequence": 3,
+				"skuCode": "10636400040257",
+				"startTime": "2018-10-28 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2019-11-30 00:00:00",
+				"insName": "SWAROVSKI施华洛世奇圆心系列女士项链1039065",
+				"marketPrice": 1099.000,
+				"period": 3,
+				"periodsAmount": "336.48",
+				"preview": "https://marketcdn.wecash.net/market/PD/3644/0a98a6942ff9fef4770bbe83e8da24631.jpg",
+				"proId": 3644,
+				"remark": "SWAROVSKI施华洛世奇圆心系列女士项链1039065",
+				"salePrice": 939.000,
+				"sequence": 4,
+				"skuCode": "10636400060259",
+				"startTime": "2018-10-28 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2019-11-30 00:00:00",
+				"insName": "SWAROVSKI施华洛世奇玫瑰金天鹅耳钉5144289",
+				"marketPrice": 999.000,
+				"period": 3,
+				"periodsAmount": "300.64",
+				"preview": "https://marketcdn.wecash.net/market/PD/3660/bcbe9948208ef4ec73938c71b28fc5d81.jpg",
+				"proId": 3660,
+				"remark": "SWAROVSKI施华洛世奇玫瑰金天鹅耳钉5144289",
+				"salePrice": 839.000,
+				"sequence": 5,
+				"skuCode": "10636400320275",
+				"startTime": "2018-10-28 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2019-11-30 00:00:00",
+				"insName": "SWAROVSKI施华洛世奇水晶Swan系列女士手镯5083133",
+				"marketPrice": 1490.000,
+				"period": 3,
+				"periodsAmount": "479.81",
+				"preview": "https://marketcdn.wecash.net/market/PD/3651/6617423f0538b07f988e77bcac9f7f8c1.jpg",
+				"proId": 3651,
+				"remark": "SWAROVSKI施华洛世奇水晶Swan系列女士手镯5083133",
+				"salePrice": 1339.000,
+				"sequence": 6,
+				"skuCode": "10636400160266",
+				"startTime": "2018-10-28 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2019-11-30 00:00:00",
+				"insName": "SWAROVSKI施华洛世奇防水晶match系列女士手链1062709",
+				"marketPrice": 1250.000,
+				"period": 3,
+				"periodsAmount": "340.06",
+				"preview": "https://marketcdn.wecash.net/market/PD/3653/47ff5dd10e6414b79c73a4b6d06cc99b1.jpg",
+				"proId": 3653,
+				"remark": "SWAROVSKI施华洛世奇防水晶match系列女士手链1062709",
+				"salePrice": 949.000,
+				"sequence": 7,
+				"skuCode": "10636400190268",
+				"startTime": "2018-10-28 00:00:00"
+			}, {
+				"empty": 0,
+				"endTime": "2019-11-30 00:00:00",
+				"insName": "SWAROVSKI 施华洛世奇 恶魔之眼手镯气质女手链 5171991",
+				"marketPrice": 1290.000,
+				"period": 3,
+				"periodsAmount": "393.81",
+				"preview": "https://marketcdn.wecash.net/mall/99249806533e4d4b8192d7d1fb96c994",
+				"proId": 8750,
+				"remark": "SWAROVSKI 施华洛世奇 恶魔之眼手镯气质女手链 5171991",
+				"salePrice": 1099.000,
+				"sequence": 8,
+				"skuCode": "jykjsl#jl618900860164",
+				"startTime": "2018-10-28 00:00:00"
+			}]
+		}],
+		"template": "BRAND_TOW_LINE",
+		"title": "品牌推荐丨BRAND"
+	}],
+	"errorDescription": "success",
+	"successful": "1"
+}

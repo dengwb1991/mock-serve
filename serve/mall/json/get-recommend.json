@@ -1,0 +1,102 @@
+{
+  "//": "商品推荐",
+	"data": {
+		"kind": "xstj",
+		"sequence": 1,
+		"title": "小闪推荐",
+		"userModuleProducts": [{
+			"buttom": "",
+			"insName": "AFFINER 925银 施华洛世奇锆石 闪耀夺目系列缘之耀项链AFP2004",
+			"marketPrice": 799.000,
+			"period": 3,
+			"periodsAmount": "130.44",
+			"preview": "https://marketcdn.wecash.net/market/PD/3150/c5b125bcff8144713e1c82933eec36341.jpg",
+			"proId": 3150,
+			"salePrice": 359.000,
+			"skuCode": "10486400570217",
+			"top": ""
+		}, {
+			"insName": "CHARLESKEITH小CK星星吊坠包",
+			"marketPrice": 479.000,
+			"period": 3,
+			"periodsAmount": "151.15",
+			"preview": "https://marketcdn.wecash.net/mall/dd20837d587d404696b6b3d15a15a046",
+			"proId": 9905,
+			"salePrice": 416.000,
+			"skuCode": "jghllpxb167202450963"
+		}, {
+			"insName": "施华洛世奇 恶魔之眼耳钉5377741-1",
+			"marketPrice": 690.000,
+			"period": 3,
+			"periodsAmount": "214.37",
+			"preview": "https://marketcdn.wecash.net/mall/8701299dfb2f4b72a5d404d05c9b8a13",
+			"proId": 9521,
+			"salePrice": 590.000,
+			"skuCode": "srzdes617804870605"
+		}, {
+			"insName": "蕉下 月石系列 双层遮阳伞 气质小黑伞 男士商务款 轻便防雨防晒",
+			"marketPrice": 329.000,
+			"period": 3,
+			"periodsAmount": "101.37",
+			"preview": "https://marketcdn.wecash.net/mall/8df9f84ea84f46cc8da98b159b735a25",
+			"proId": 8663,
+			"salePrice": 279.000,
+			"skuCode": "srzdysyj165604100462"
+		}, {
+			"insName": "蕉下 Black系列三折晴雨伞 爆款小黑伞 专利防晒图层 今夏新款 品质耐用",
+			"marketPrice": 329.000,
+			"period": 3,
+			"periodsAmount": "108.64",
+			"preview": "https://marketcdn.wecash.net/mall/545c2297e0e54e178ad4cb965313f958",
+			"proId": 8661,
+			"salePrice": 299.000,
+			"skuCode": "srzdysyj165604080456"
+		}, {
+			"insName": "MORELLATO 莫瑞拉托 DROPS 串饰系列女士手链 SCZ358",
+			"marketPrice": 790.000,
+			"period": 3,
+			"periodsAmount": "217.64",
+			"preview": "https://marketcdn.wecash.net/mall/4d33e5f3ff1d402bbcb5f53249e152b2",
+			"proId": 9539,
+			"salePrice": 599.000,
+			"skuCode": "srzdsz#sl#jl618005050623"
+		}, {
+			"insName": "施华洛世奇昆虫耳钉5429351-1",
+			"marketPrice": 630.000,
+			"period": 3,
+			"periodsAmount": "214.37",
+			"preview": "https://marketcdn.wecash.net/mall/87e22714de4246a689065ed3355cfc88",
+			"proId": 9534,
+			"salePrice": 590.000,
+			"skuCode": "srzdes617805000618"
+		}, {
+			"insName": "卡西欧（CASIO）男表 防水石英手表 商务休闲运动腕表带日历",
+			"marketPrice": 498.000,
+			"period": 3,
+			"periodsAmount": "166.77",
+			"preview": "https://marketcdn.wecash.net/mall/b4202ca2002343a885b362b8ee443f9e",
+			"proId": 9684,
+			"salePrice": 459.000,
+			"skuCode": "jykjrhb1366902150415"
+		}, {
+			"insName": "BOSS男款简约情侣系列三针石英机芯时尚腕表BX12.1.3.1.3.1",
+			"marketPrice": 1699.000,
+			"period": 3,
+			"periodsAmount": "253.97",
+			"preview": "https://marketcdn.wecash.net/mall/166cfc6d87f94c2b95aa2d49d02d7969",
+			"proId": 9307,
+			"salePrice": 699.000,
+			"skuCode": "srzdgb1367404360492"
+		}, {
+			"insName": "SWAROVSKI施华洛世奇穿孔耳环-今夜之星1800046",
+			"marketPrice": 720.000,
+			"period": 3,
+			"periodsAmount": "210.37",
+			"preview": "https://marketcdn.wecash.net/market/PD/4161/2149569751c3be295c00dacc7ad1ce101.jpg",
+			"proId": 4161,
+			"salePrice": 579.000,
+			"skuCode": "10636400300284"
+		}]
+	},
+	"successful": "1"
+}

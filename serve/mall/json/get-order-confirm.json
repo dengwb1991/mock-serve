@@ -1,0 +1,42 @@
+{
+  "//": "订单确认",
+	"data": {
+		"totalAmount": 499.0,
+		"beforeAmount": 499.0,
+		"payAmount": 499.0,
+		"freightFee": 0.0,
+		"monthFee": 181.3,
+		"defaultAddress": {
+			"allDetailAddress": "北京市,北京市辖区,东城区,建国门街道 闪银测试",
+			"channel": "MALL_CHANNEL",
+			"city": "北京市辖区",
+			"consignee": "闪银测试",
+			"consigneePhone": "17744538590",
+			"createTime": 1567665983000,
+			"customerId": 991235332,
+			"detailAddress": "闪银测试",
+			"id": 122832,
+			"isDefault": 1,
+			"isExist": 1,
+			"province": "北京市",
+			"region": "东城区",
+			"street": "建国门街道",
+			"updateTime": 1568965719000
+		},
+		"products": [{
+			"categoryCode": "entity_thzq",
+			"channel": "7",
+			"isCreditPay": 1,
+			"pid": 9777,
+			"preview": "https://marketcdn.wecash.net/mall/bd67b956849f4347a9b95040e864e36a",
+			"quantity": 1,
+			"salePrice": 499.00,
+			"skuCode": "jghldjb525701350195",
+			"skuId": 35345,
+			"skuName": "黑色",
+			"spuName": "CHARLES&KEITH  小CK 流苏信封女包"
+		}],
+		"canTicket": false
+	},
+	"successful": "1"
+}

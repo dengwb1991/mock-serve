@@ -1,0 +1,12 @@
+{
+  "//": "优惠券列表",
+	"data": {
+		"unuseTickets": [],
+		"unuseTicketsNum": 0,
+		"invalidTikcetsNum": 0,
+		"usedTickets": [],
+		"usedTicketsNum": 0,
+		"invalidTickets": []
+	},
+	"successful": "1"
+}

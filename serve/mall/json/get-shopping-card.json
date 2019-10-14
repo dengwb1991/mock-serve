@@ -1,0 +1,36 @@
+{
+  "//": "购物车",
+	"data": {
+		"items": [{
+			"adequateInventory": true,
+			"itemId": 830,
+			"itemPayFee": 479.000,
+			"preview": "https://marketcdn.wecash.net/mall/8941a44f54c3455995415d6157331884",
+			"quantity": 1,
+			"salePrice": 479.000,
+			"selected": true,
+			"skuId": 36161,
+			"skuName": "棕色",
+			"spuId": 9907,
+			"spuName": "CHARLESKEITH 小CK豆豆包",
+			"updateTime": 1571035640318
+		}, {
+			"adequateInventory": true,
+			"itemId": 829,
+			"itemPayFee": 1290.000,
+			"preview": "https://marketcdn.wecash.net/mall/4edb530d63244e66a512bd3735e6f16d",
+			"quantity": 1,
+			"salePrice": 1290.000,
+			"selected": true,
+			"skuId": 33501,
+			"skuName": "5296469",
+			"spuId": 9279,
+			"spuName": "SWAROVSKI 施华洛世奇 爱恋天鹅 镀白金色SWAN LAKE 项链女 锁骨链 女友礼物",
+			"updateTime": 1571035617000
+		}],
+		"payAmount": 1769.00,
+		"selectedAmount": 2,
+		"selectedProduct": 2
+	},
+	"successful": "1"
+}

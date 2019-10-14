@@ -1,0 +1,53 @@
+{
+  "//": "商品详情页",
+	"data": {
+		"canReturn": 1,
+		"categoryCode": "entity_thzq",
+		"headPics": ["https://marketcdn.wecash.net/mall/bd67b956849f4347a9b95040e864e36a", "https://marketcdn.wecash.net/mall/941631da63f74c09b936885691d125d5", "https://marketcdn.wecash.net/mall/d206b89cfbb04f2982416c6a48fbb144"],
+		"id": 9777,
+		"isCreditPay": 1,
+		"isOnsale": 1,
+		"items": [{
+			"amount": 7,
+			"id": 35345,
+			"isCreditPay": true,
+			"marketPrice": 559.00,
+			"monthFee": 181.30,
+			"proSSVCode": "p9777s2218sv35284",
+			"productId": 9777,
+			"salePrice": 499.00,
+			"skuCode": "jghldjb525701350195",
+			"title": "黑色"
+		}, {
+			"amount": 46,
+			"id": 35346,
+			"isCreditPay": true,
+			"marketPrice": 559.00,
+			"monthFee": 181.30,
+			"proSSVCode": "p9777s2218sv35285",
+			"productId": 9777,
+			"salePrice": 499.00,
+			"skuCode": "jghldjb525701350196",
+			"title": "红色"
+		}],
+		"marketPrice": 559.00,
+		"monthFee": 181.30,
+		"name": "CHARLES&KEITH  小CK 流苏信封女包",
+		"preview": "https://marketcdn.wecash.net/mall/bd67b956849f4347a9b95040e864e36a",
+		"price": 499.00,
+		"salePrice": 499.00,
+		"specs": [{
+			"sid": 2218,
+			"sname": "新规格",
+			"specValues": [{
+				"svId": 35284,
+				"svalue": "黑色"
+			}, {
+				"svId": 35285,
+				"svalue": "红色"
+			}]
+		}],
+		"supplierCode": "jghl"
+	},
+	"successful": "1"
+}

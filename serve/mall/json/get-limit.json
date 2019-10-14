@@ -1,0 +1,17 @@
+{
+  "//": "商城首页额度", 
+	"data": {
+		"isFreeze": 0,
+		"bulletScore": 83.3,
+		"customerType": 1,
+		"freeze": 0,
+		"totalLimit": 10000.0,
+		"remainLimit": 8387.53,
+		"passedAuth": true,
+		"grade": "D",
+		"idcard": true,
+		"tempLimit": 0,
+		"investorId": 92
+	},
+	"successful": "1"
+}
